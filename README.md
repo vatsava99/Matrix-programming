@@ -1,2 +1,2 @@
-# internship1
+# Matrix theory C programming
 summer intern
